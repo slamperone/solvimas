@@ -1,0 +1,61 @@
+#footer{
+
+    font-family: "Open Sans", sans-serif;
+    color: #33486C;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+    font-size: 14px;
+
+
+        .rrss{
+            border-bottom: 1px solid #CED8E8;
+        }
+
+
+        a{
+            text-decoration: none;
+            color: #33486C;
+            display: inline-flex;
+        }
+
+        .naranja{
+            color: #FF6B0B;
+        }
+
+
+        .titleC2, .titleC3{
+            font-weight: 600;
+            font-size: 16px;
+        }
+
+        .textC2, .textC3{
+            margin: auto;
+        }
+
+        #c2{
+
+            p{
+                
+            }
+        }
+
+}
+
+#separator{
+    border-top: 1px solid #CED8E8;
+}
+
+#copyright{
+
+    background-color: #F6F9FD;
+
+
+    p{
+        color: #567099;
+        float: right;
+        margin: auto;
+        font-size: 12px;
+    }
+}
