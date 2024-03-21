@@ -60,6 +60,13 @@
 
         }
 
+
+    #arrMob > img{
+        transition-duration: 0.4s;
+        transition-property: transform;
+
+    }    
+
 }
 
 #separator{
